@@ -1,8 +1,6 @@
-public class readme
-{
+public class readme {
 
-	public static void main(String[] args) 
- {
+	public static void main(String[] args) {
 
 		var name = "Thiago Pedroso";
 
@@ -16,15 +14,13 @@ public class readme
 				"JUnit", "HTML5", "CSS3", "JavaScript", "TypeScript", "Angular", "Bootstrap", "Git e Gitub", "Scrum",
 				"Vs Code", "Eclipse", "IntelliJ", "Heroku", "PostMan" };
 
-		for( String i : tech ) 
-    {
+		for( String i : tech ) {
 			System.out.println( i );
 		}
 
 		Developer dev = new Developer( Thiago-PEDROSO );
 
-		while ( dev.isCoding( ) && dev.isStuck( ) ) 
-    {
+		while ( dev.isCoding( ) && dev.isStuck( ) ) {
 			dev.openBrowser( );
 			dev.openStackOverFlow( );
 			dev.pasteCodeInIde( );
