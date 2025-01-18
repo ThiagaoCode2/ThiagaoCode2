@@ -37,8 +37,8 @@ public class readme {
 <div> <hr> </div>
  <div>
   <a href="https://github.com/ThiagaoCode2">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThiagaoCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagaoCode&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThiagaoCode2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagaoCode2&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
  <div style="display: inline_block"><br>
@@ -63,6 +63,6 @@ public class readme {
    <a href="https://github.com/ThiagaoCode2" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thi.pedroso.soares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   
-   ![Snake animation](https://github.com/ThiagaoCode2/ThiagaoCode2/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/ThiagaoCode/ThiagaoCode/blob/output/github-contribution-grid-snake.svg)
 </div>
   
